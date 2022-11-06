@@ -36,10 +36,7 @@ const Footer = () => {
 						  <p className='pt-3'>© 2021 Loopstudios. All rights reserved.</p>
 					  </div>
 					  </div>					  
-				  </div>
-				  
-
-			
+				  </div>				  			
 			  </div>  
 		  </section>
 		  

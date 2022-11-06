@@ -149,6 +149,9 @@ code {
     .leader-text {
     display: none;
     }
+    .leader-text-mobile {
+    display: contents;
+    }
 
     .leader-text-mobile h4 {
       text-transform: uppercase;
