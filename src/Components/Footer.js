@@ -27,10 +27,10 @@ const Footer = () => {
 					  </div>
 					  <div className='footer-icons'>
 						  <div>							  
-							<a href=""> <img src={facebook} alt="" /> </a>
-							<a href=""> <img src={twitter} alt="" /> </a>
-							<a href=""> <img src={pinterest} alt="" /> </a>
-							<a href=""> <img src={instagram} alt="" /> </a>
+							<a href="link"> <img src={facebook} alt="" /> </a>
+							<a href="link"> <img src={twitter} alt="" /> </a>
+							<a href="link"> <img src={pinterest} alt="" /> </a>
+							<a href="link"> <img src={instagram} alt="" /> </a>
 						  </div>
 					  <div>
 						  <p className='pt-3'>© 2021 Loopstudios. All rights reserved.</p>
