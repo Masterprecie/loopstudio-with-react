@@ -130,6 +130,9 @@ code {
   color: #fff;
   padding-right: 10px;
 }
+ .row-mobile-view {
+   display: none!important;
+ }
 
 @media (max-width:769px) {
     .hero-text p {
@@ -193,6 +196,18 @@ code {
 
     .footer-ul ul li {
       padding-bottom: 15px;
+    }
+
+    .row-mobile-view{
+    display: contents!important;
+      }
+
+    .col-view{
+    width: 100%!important;
+    }
+
+    .row-webView {
+    display: none!important;
     }
 }
 
