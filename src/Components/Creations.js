@@ -26,7 +26,7 @@ const Creations = () => {
 				  <div className='row row-mobile-view'>					  
 						{imagesMobile.map((items) => {
 							const { image, title} = items;
-							return <div className='col-lg-3 col-md-6 col-view'> <img src={image} alt="" className='relative-img' />
+							return <div className='col-lg-3 col-md-6 col-view px-0'> <img src={image} alt="" className='relative-img' />
 								<p id='relative-img-text'>{title}</p>
 							</div>
 						})}
